@@ -1,0 +1,78 @@
+
+
+body {
+	background-color: #dfbf9f;
+
+}
+
+.wrapper {
+	width: 100;
+	
+
+}
+
+h1 {
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+
+}
+
+
+#intro {
+	background-color: #660033;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #ffffff;
+	line-height: 2em;
+	padding: 8px;
+	border: 8px solid #cc6699;
+	border-radius: 4px;
+}
+
+#morel {
+	background-color: #ffff99;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #0086b3;
+	line-height: 2em;
+	padding: 12px;
+	border: 9px dashed #99e699;
+	border-radius: 8px;
+}
+
+#lionMane {
+	background-color: #b3ffff;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #cc6600;
+	line-height: 2.5em;
+	padding: 18px;
+	border: 12px ridge  #004d00;
+	border-radius: 25px;
+}
+
+#chickenWoods {
+	background-color: #ffccdd;
+	font-family: "Courier New", Courier, monospace;
+	color: #000000;
+	line-height: 1.8em;
+	padding: 16px;
+	border: 10px double #000000;
+	border-radius: 30px;
+}
+
+#maitake {
+	background-color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000080;
+	line-height: 2.2em;
+	padding: 7px;
+	border: 14px groove violet;
+	border-radius: 50px;
+}
+
+footer {
+	text-align: center;
+	padding: 10px;
+}
